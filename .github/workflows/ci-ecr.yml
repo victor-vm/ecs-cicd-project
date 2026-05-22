@@ -10,7 +10,7 @@ permissions:
 
 env:
   AWS_REGION: ap-south-1
-  ECR_REPOSITORY: victor-vm/ecs-cicd-project
+  ECR_REPOSITORY: ecs-app
   ECR_REGISTRY: 222055803569.dkr.ecr.ap-south-1.amazonaws.com
   IMAGE_TAG: latest
 
