@@ -3,6 +3,7 @@ name: Trivy Security Scan
 on:
   push:
     paths:
+      - 'requirements.txt'
       - '.github/workflows/trivy-scan.yaml'
     branches:
       - main
