@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install Trivy
-        uses: aquasecurity/master
+        uses: aquasecurity@master
